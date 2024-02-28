@@ -19,7 +19,7 @@ This labyrinth game is set in an environment with various particles, where the p
 5. If the user cannot reach the exit within a certain game time, the game ends.
 
 ## Game Screen
-![Game Screen](screenshots/game_screenshot.png)
+![Game Screen](game_screenshot.png)
 
 ## Controls
 - Up Arrow: Move Up
