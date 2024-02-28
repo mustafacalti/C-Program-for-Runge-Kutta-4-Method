@@ -6,7 +6,7 @@ This repository contains a classification prediction application written in C, d
 ## Problem Definition
 The classification prediction application addresses the task of accurately categorizing data points into two predefined classes based on given features. This is a common problem in machine learning, where the goal is to develop a model that can generalize patterns in the data and make accurate predictions on new, unseen data.
 
-##Algorithms Used
+## Algorithms Used
 The application employs the following optimization algorithms:
 
 ```
