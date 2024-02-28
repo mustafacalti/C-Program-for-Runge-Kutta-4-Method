@@ -1,1 +1,0 @@
-This C program demonstrates the implementation of the Runge-Kutta 4 method, a numerical integration technique commonly used for solving differential equations.
