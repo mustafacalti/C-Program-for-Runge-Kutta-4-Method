@@ -9,15 +9,18 @@ The classification prediction application addresses the task of accurately categ
 ##Algorithms Used
 The application employs the following optimization algorithms:
 
-```1. Gradient Descent
+```
+1. Gradient Descent
 *Basic optimization algorithm for updating model parameters.
 *Iteratively minimizes the model's loss function to improve accuracy.
 ```
-```2. Stochastic Gradient Descent (SGD)
+```
+2. Stochastic Gradient Descent (SGD)
 *Optimizes using a single data point per iteration.
 *Suitable for large datasets as it processes one data point at a time.
 ```
-```3. Adam Optimizer
+```
+3. Adam Optimizer
 *Utilizes adaptive moment estimation for efficient optimization.
 *Effective in scenarios with varying or sparse data.
 ```
